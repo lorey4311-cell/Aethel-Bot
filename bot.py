@@ -1,3 +1,4 @@
-import os
+import time
 print("Aethel-Bot encendido y listo para la acción.")
-# Aquí irá la lógica de tu bot
+while True:
+    time.sleep(60)
